@@ -7,10 +7,10 @@ git checkout 9f971dec1a32b200cd3ccc88d0ed719ac90ac8ac
 make
 cd ..
 cd hubo-ach-controller
-git checkout 6d49d7c18d0eef55aef7f8deec286616180999d7
+git checkout 53b76eece7f641bec6a5fcce1652c402710e12db
 make
 cd ..
 cd hubo-ach-sim
-git checkout 3ed9bf0d258fab1a4999b8365864b354f83abe7b
+git checkout 91fdb5a4b4d9f5126e82e0f0b653de53df8e45fa
 ./updateSubmodules.sh
 make
